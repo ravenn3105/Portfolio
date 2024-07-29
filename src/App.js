@@ -10,11 +10,13 @@ function App() {
   return (
     <>
     <ErrorBoundary>
+      <div className="scrollbar-thin scrollbar-webkit">
         <Navbar></Navbar>
         <About></About>
         <Projects></Projects>
         <Skills></Skills>
         <Contact></Contact>
+        </div>
         </ErrorBoundary>
     </>
   );

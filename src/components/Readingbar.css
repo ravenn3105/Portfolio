@@ -1,0 +1,17 @@
+/* ProgressBar.css */
+.progress-bar-container {
+    position: fixed;
+    top: 70px; /* Adjust this value based on the height of your navbar */
+    left: 0;
+    width: 100%;
+    height: 5px;
+    background-color: rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    background-color: rgba(34, 197, 94, 0.5); /* Change this to your desired color */
+    width: 0;
+  }
+  

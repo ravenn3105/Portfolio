@@ -5,6 +5,7 @@ import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Navbar from './components/Navbar';
 import ErrorBoundary from './ErrorBoundary';
+import Readingbar from './components/Readingbar';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
     <ErrorBoundary>
       <div className="scrollbar-thin scrollbar-webkit">
         <Navbar></Navbar>
+        <Readingbar></Readingbar>
         <About></About>
         <Projects></Projects>
         <Skills></Skills>

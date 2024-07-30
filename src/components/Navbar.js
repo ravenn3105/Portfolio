@@ -20,6 +20,9 @@ export default function Navbar() {
           <a href="#skills" className="mr-5 text-gray-300 hover:text-white">
             Skills
           </a>
+          <a href="https://drive.google.com/file/d/1BWCZ-wnRjJZPFyyJU7lWpOLop_tumR4w/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="mr-5 text-gray-300 hover:text-white">
+            Resume
+          </a>
           
         </nav>
         {/* Github icon */}

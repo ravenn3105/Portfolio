@@ -3,9 +3,8 @@ import coderImage from './coder.jpg';
 import Typewriter from 'typewriter-effect';
 import { StyledSpan,StyledTextLoop } from './HeroStyle.js';
 import { Bio } from './data';
-import styled from 'styled-components';
-export default function About() {
 
+export default function About() {
   return (
     <section id="about">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">

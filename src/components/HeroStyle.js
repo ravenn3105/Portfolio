@@ -6,7 +6,7 @@ color: black;
 `;
 
 export const StyledSpan = styled.span`
-color: rgba(50, 20, 95);
+color: rgba(34, 197, 94);
 `;
 export const HeroContainer = styled.div`
   background: ${({ theme }) => theme.card_light};

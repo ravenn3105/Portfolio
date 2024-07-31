@@ -12,12 +12,12 @@ function App() {
     <>
     <ErrorBoundary>
       <div className="scrollbar-thin scrollbar-webkit">
-        <Navbar></Navbar>
-        <Readingbar></Readingbar>
-        <About></About>
-        <Projects></Projects>
-        <Skills></Skills>
-        <Contact></Contact>
+        <Navbar/>
+        <Readingbar/>
+        <About/>
+        <Projects/>
+        <Skills/>
+        <Contact/>
         </div>
         </ErrorBoundary>
     </>

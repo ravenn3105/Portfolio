@@ -45,7 +45,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1 text-gray-200">
-                Girls Hostel 2, VIT BHOPAL UNIVERSITY <br />
+                Girls Hostel 2, VIT Bhopal University <br />
                 Sehore, Madhya Pradesh
               </p>
             </div>

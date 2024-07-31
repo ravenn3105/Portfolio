@@ -11,7 +11,7 @@ function App() {
   return (
     <>
     <ErrorBoundary>
-      <div className="scrollbar-thin scrollbar-webkit">
+      <div className="overflow-y-hidden">
         <Navbar/>
         <Readingbar/>
         <About/>

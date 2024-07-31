@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import _default from "./default.js";
+// import _default from "./default.js";
 
 export const StyledTextLoop = styled.div`
 color: black;
